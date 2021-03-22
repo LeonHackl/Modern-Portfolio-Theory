@@ -18,5 +18,7 @@ minimum volatility and maximum sharpe-ratio portfolios, the Capital-Asset-Pricin
 the expected returns (for more details, see the jupyter notebook). Furthermore we try using an exponentially-weighted covariance matrix
 to improve upon our results.
 
+All computations regarding the MVO are done using the `PyPortfolioOpt` package.
+
 ## To-Do
 - Implementation of Black-Litterman Allocation
