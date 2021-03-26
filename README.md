@@ -23,5 +23,4 @@ All computations regarding the MVO are done using the `PyPortfolioOpt` package.
 ## To-Do
 - ~Further exploration of the exponentially-weighted covariance matrix~
 - ~Implementation of Black-Litterman Allocation~
-- Explore shrinkage estimators
 - Explore Hierarchical Risk Parity (HRP)
